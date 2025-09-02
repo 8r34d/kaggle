@@ -1,12 +1,12 @@
 # kaggle
 
-## Book Recommender
+## Book Recommender
 
 ### Branch
 
 [book-recommender](https://github.com/8r34d/kaggle/tree/book-recommender)
 
-### Youtube
+### Youtube Course
 
 LLM Course – Build a Semantic Book Recommender (Python, OpenAI, LangChain, Gradio)
 
