@@ -15,3 +15,5 @@
 `pandas`
 
 - 10-minutes-to-pandas.ipynb
+- dataframe-examples.ipynb
+- series-examples.ipynb
