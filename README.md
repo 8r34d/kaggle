@@ -12,6 +12,16 @@
 
 - machine_learning_intro.md
 
+`machine_learning`
+
+- `data`
+  - home-data-description.txt
+  - home-data-test.csv
+  - home-data-train.csv
+- intermediate-machine-learning.ipynb
+- intro-to-machine-learning-home-data.ipynb
+- intro-to-machine-learning-melbourne-data.ipynb
+
 `pandas`
 
 - 10-minutes-to-pandas.ipynb
