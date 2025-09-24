@@ -9,7 +9,7 @@ from langchain_chroma import Chroma
 
 import gradio as gr
 
-load_dotenv()
+load_dotenv(override=True)
 
 books = pd.read_csv("books_with_emotions.csv")
 books["large_thumbnail"] = books["thumbnail"] + "&fife=w800"
